@@ -48,11 +48,11 @@ A comprehensive Dental Clinic Management System designed to simplify and streaml
 
 🛠️ Technology Stack
 
-Frontend    - HTML5, CSS[Bootstrap], JavaScript
-Network API - Http Server
-Backend     - Java
-Backend API - JDBC
-Database    - MySQL
+Frontend    - HTML5, CSS[Bootstrap], JavaScript<br>
+Network API - Http Server<br>
+Backend     - Java<br>
+Backend API - JDBC<br>
+Database    - MySQL<br>
 
 
 Tools
@@ -99,17 +99,17 @@ Will be added as project progressses.
 
 
 Future Improvements:
-📱 Responsive/mobile application
-📧 Email appointment reminders
-📲 SMS/WhatsApp notifications
-💰 Online payment integration
-📄 Prescription and invoice PDF generation
-🩻 Dental X-ray/document management
-📈 Advanced analytics and reports
-🔔 Automated appointment reminders
-☁️ Cloud deployment
-🔄 Automated database backups
-🧑‍💼 Multi-clinic support
+📱 Responsive/mobile application<br>
+📧 Email appointment reminders<br>
+📲 SMS/WhatsApp notifications<br>
+💰 Online payment integration<br>
+📄 Prescription and invoice PDF generation<br>
+🩻 Dental X-ray/document management<br>
+📈 Advanced analytics and reports<br>
+🔔 Automated appointment reminders<br>
+☁️ Cloud deployment<br>
+🔄 Automated database backups<br>
+🧑‍💼 Multi-clinic support<br>
 
 🤝 Contributing
 Contributions are welcome!
