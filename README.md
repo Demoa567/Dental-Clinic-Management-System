@@ -41,10 +41,10 @@ A comprehensive Dental Clinic Management System designed to simplify and streaml
    Track revenue and outstanding payments
    Get a quick overview of clinic activities
 
-🔐 Authentication & Authorization
-   Secure user login
-   Role-based access control
-   Protect sensitive clinic and patient information
+🔐 Authentication & Authorization<br>
+   Secure user login<br>
+   Role-based access control<br>
+   Protect sensitive clinic and patient information<br>
 
 🛠️ Technology Stack
 
