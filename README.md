@@ -59,32 +59,32 @@ Tools
 Git & GitHub
 VS Code
 
-📂 Project Structure
-dental-clinic-management-system/
-│
-├── frontend/
-│   ├── components/
-│   ├── pages/
-│   ├── assets/
-│   └── ...
-│
-├── backend/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── middleware/
-│   └── ...
-│
-├── database/
-│   ├── migrations/
-│   └── seeders/
-│
-├── public/
-│
-├── .env.example
-├── .gitignore
-├── README.md
-└── ...
+📂 Project Structure<br>
+dental-clinic-management-system/<br>
+│<br>
+├── frontend/<br>
+│   ├── components/<br>
+│   ├── pages/<br>
+│   ├── assets/<br>
+│   └── ...<br>
+│<br>
+├── backend/<br>
+│   ├── controllers/<br>
+│   ├── models/<br>
+│   ├── routes/<br>
+│   ├── middleware/<br>
+│   └── ...<br>
+│<br>
+├── database/<br>
+│   ├── migrations/<br>
+│   └── seeders/<br>
+│<br>
+├── public/<br>
+│<br>
+├── .env.example<br>
+├── .gitignore<br>
+├── README.md<br>
+└── ...<br>
 
 🔑 User Roles
 The system can support different user roles, such as:
@@ -113,5 +113,3 @@ Future Improvements:
 
 🤝 Contributing
 Contributions are welcome!
-
-Email: your-email@example.com
